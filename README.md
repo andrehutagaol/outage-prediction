@@ -1,4 +1,4 @@
-# Outage Prediction Project
+# Outage Prediction
 
 ## Overview
 
