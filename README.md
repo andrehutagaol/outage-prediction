@@ -1,11 +1,8 @@
 # Outage Prediction Project
 
-## MSA Project Week - Spring 2025
-### Georgia Institute of Technology
-
 ## Overview
 
-This project develops machine learning models to predict network outages using customer interaction data from a telecommunications company. Two main analysis notebooks are included, each exploring different time periods and modeling approaches.
+This project is part of MSA Project Week at Georgia Institute of Technology that develops machine learning models to predict network outages using customer interaction data from a telecommunications company. Two main analysis notebooks are included, each exploring different time periods and modeling approaches.
 
 ---
 
@@ -153,22 +150,3 @@ from tensorflow.keras.callbacks import EarlyStopping
 ```
 
 ---
-
-## Data Files
-
-- `0901to0907_agg0.csv` - 7-day aggregated data (September 1-7)
-- `90d_sampled_agg.csv` - 90-day sampled aggregated data
-
----
-
-## Usage
-
-1. Ensure all required packages are installed
-2. Place data files in the same directory as the notebooks
-3. Run notebooks sequentially to reproduce results
-
----
-
-## Authors
-
-MSA Program, Georgia Institute of Technology - Spring 2025
